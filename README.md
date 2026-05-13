@@ -44,7 +44,3 @@ Contains:
 
 ---
 
-## 📌 Combined Version
-
-If preferred, all four parts can be merged into a single file:
-
